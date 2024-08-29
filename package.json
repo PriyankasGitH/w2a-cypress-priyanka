@@ -2,6 +2,7 @@
   "name": "cypress-selenium",
   "version": "1.0.0",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "npx cypress open --e2e b chrome"
   },
